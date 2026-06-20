@@ -23,17 +23,18 @@
   <img src="https://streak-stats.demolab.com?user=me-agrim-rehan&theme=dracula&hide_border=true" />
 </p>
 
-## 📌 Featured Project
+## 📌 Featured Work
 
 <a href="https://github.com/me-agrim-rehan/SupportBot-AI-improve-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=me-agrim-rehan&repo=SupportBot-AI-improve-1&theme=dracula&hide_border=true" />
 </a>
 
-<p>
-Collaborated on a WhatsApp automation and CRM platform with bulk messaging, analytics, and auto-response features, contributing to implementation, integration, and testing.
-</p>
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/me-agrim-rehan/me-agrim-rehan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+- React
+- AI/ML Fundamentals
+- Cloud Computing
+- Open Source Contributions
+
+
 
