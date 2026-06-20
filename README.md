@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**me-agrim-rehan/me-agrim-rehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+Agrim Rehan
 
-Here are some ideas to get you started:
+$ interests
+AI/ML • Full Stack • Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ status
+Building stuff, breaking stuff,
+learning stuff.
+
+$ motto
+grind never stops.
