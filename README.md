@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=AI%2FML+%E2%80%A2+Full+Stack+%E2%80%A2+Cloud;+Bbilding+stuff%2C+breaking+stuff%2C+learning+stuff.;grind+never+stops." />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
 
 $ whoami
 Agrim Rehan
