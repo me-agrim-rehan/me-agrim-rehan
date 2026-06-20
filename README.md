@@ -10,23 +10,26 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-$ whoami
-Agrim Rehan
-
-$ interests
-AI/ML • Full Stack • Cloud
-
-$ status
-Building stuff, breaking stuff,
-learning stuff.
-
-$ motto
-grind never stops.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-agrim-rehan&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-agrim-rehan&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-agrim-rehan&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-agrim-rehan&layout=compact&theme=dracula&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=me-agrim-rehan&theme=dracula&hide_border=true" />
+</p>
+
+## 📌 Featured Project
+
+<a href="https://github.com/me-agrim-rehan/SupportBot-AI-improve-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=me-agrim-rehan&repo=SupportBot-AI-improve-1&theme=dracula&hide_border=true" />
+</a>
+
+<p>
+Collaborated on a WhatsApp automation and CRM platform with bulk messaging, analytics, and auto-response features, contributing to implementation, integration, and testing.
+</p>
+
