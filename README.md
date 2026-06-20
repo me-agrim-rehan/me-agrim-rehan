@@ -33,3 +33,7 @@
 Collaborated on a WhatsApp automation and CRM platform with bulk messaging, analytics, and auto-response features, contributing to implementation, integration, and testing.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/me-agrim-rehan/me-agrim-rehan/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
+
