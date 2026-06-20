@@ -22,3 +22,11 @@ learning stuff.
 
 $ motto
 grind never stops.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-agrim-rehan&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-agrim-rehan&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
